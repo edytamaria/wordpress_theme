@@ -13,3 +13,5 @@ This is my front-page
 
 
 </div>
+
+<?php get_footer(); ?>
