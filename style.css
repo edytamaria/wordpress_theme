@@ -1,0 +1,12 @@
+/**
+*	Theme: Custom
+*	Author: Edyta
+**/
+
+header {
+    min-height: 50px;
+    background-color: bisque;
+}
+body {
+    background-color: blueviolet;
+}
