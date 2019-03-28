@@ -4,9 +4,9 @@
 **/
 
 header {
-    min-height: 50px;
+    min-height: 100px;
     background-color: bisque;
 }
 body {
-    background-color: blueviolet;
+    background-color: #fff;
 }

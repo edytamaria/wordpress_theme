@@ -1,10 +1,13 @@
 <!DOCTYPE html>
 <head>
     <?php wp_head();?>
+    
 </head>
 
 <header>
-header
+<div class="container">
+    This is header
+</div>
 </header>
 
 
